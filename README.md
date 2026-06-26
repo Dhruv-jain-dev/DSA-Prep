@@ -7,6 +7,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0704-binary-search) |
 ## Hash Table
@@ -24,5 +25,6 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
