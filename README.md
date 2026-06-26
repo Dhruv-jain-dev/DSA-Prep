@@ -21,6 +21,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
