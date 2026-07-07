@@ -39,6 +39,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 | [0009-palindrome-number](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -83,4 +85,8 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0048-rotate-image) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
