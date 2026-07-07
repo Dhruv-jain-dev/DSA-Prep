@@ -41,6 +41,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 | [0189-rotate-array](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0268-missing-number) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +90,8 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/2443-sum-of-number-and-its-reverse) |
 <!---LeetCode Topics End-->
