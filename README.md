@@ -33,6 +33,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0704-binary-search) |
 ## Math
@@ -40,6 +41,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 | ------- |
 | [0009-palindrome-number](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0268-missing-number) |
