@@ -17,6 +17,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 | [0136-single-number](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0485-max-consecutive-ones) |
@@ -27,6 +28,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 | ------- |
 | [0001-two-sum](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -96,4 +98,8 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/2443-sum-of-number-and-its-reverse) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
