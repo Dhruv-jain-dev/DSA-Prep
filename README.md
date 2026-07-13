@@ -66,6 +66,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 | [0011-container-with-most-water](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0189-rotate-array) |
@@ -129,4 +130,12 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
