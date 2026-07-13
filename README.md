@@ -133,9 +133,14 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
