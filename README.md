@@ -43,6 +43,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -57,6 +58,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 | [0231-power-of-two](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0367-valid-perfect-square) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Two Pointers
 |  |
