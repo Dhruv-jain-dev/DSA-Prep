@@ -50,6 +50,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 | [0009-palindrome-number](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0189-rotate-array) |
@@ -107,6 +108,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0326-power-of-three) |
 ## Enumeration
