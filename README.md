@@ -14,6 +14,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0128-longest-consecutive-sequence) |
@@ -49,6 +50,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 | [0009-palindrome-number](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0231-power-of-two) |
