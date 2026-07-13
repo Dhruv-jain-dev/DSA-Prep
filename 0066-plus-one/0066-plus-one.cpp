@@ -1,5 +1,6 @@
 class Solution {
 public:
+// using carry forward method
     vector<int> plusOne(vector<int>& digits) {
         int carry = 1;
         for (int i = digits.size() - 1; i >= 0; i--) {
