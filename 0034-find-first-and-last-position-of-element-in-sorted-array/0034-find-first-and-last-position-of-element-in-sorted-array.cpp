@@ -1,6 +1,6 @@
 class Solution {
 public:
-// Binary Search
+// Binary Search O(logn)
     int firstOccurrence(vector<int>& nums, int target) {
 
         int start = 0;
