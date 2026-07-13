@@ -7,6 +7,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0031-next-permutation) |
@@ -55,6 +56,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0031-next-permutation) |
@@ -115,4 +117,8 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
