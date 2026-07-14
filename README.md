@@ -20,6 +20,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0217-contains-duplicate) |
@@ -102,6 +103,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0152-maximum-product-subarray) |
 ## Simulation
 |  |
 | ------- |
