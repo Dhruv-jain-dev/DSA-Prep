@@ -151,6 +151,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0058-length-of-last-word) |
 ## String Matching
 |  |
 | ------- |
