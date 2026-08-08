@@ -35,6 +35,7 @@ Structured DSA practice for placements with time complexity and trade-offs docum
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3861-minimum-capacity-box](https://github.com/Dhruv-jain-dev/DSA-Prep/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
 |  |
 | ------- |
